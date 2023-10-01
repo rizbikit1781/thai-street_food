@@ -15,7 +15,7 @@
   --playfair-display: "Playfair Display", serif;
   --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
 
-  --primary-color: #b1454a;
+  --primary-color: #854d27;
   --secondary-color: #121212;
 
   --black-200: #020202;
@@ -25,7 +25,8 @@
   --gray-100: #888888;
 
   --color-white: #fff;
-  --color-creamson: #fff0de;
+  --color-creamson: #f4c95d;
+  --color-trial: #e7e393;
 }
 
 * {

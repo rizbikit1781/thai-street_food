@@ -13,7 +13,7 @@
 }
 
 .hero-image img {
-    width: 120%;
+    width: 100%;
     height: 100%;
     object-fit: contain;
 }
@@ -22,7 +22,7 @@
     position: absolute;
     inset: 0;
     width: 100%;
-    background-color: var(--primary-color);
+    background-color: #dd7230;
     z-index: -1;
 }
 
@@ -33,9 +33,9 @@
 
     font-family: var(--playfair-display);
     font-weight: 700;
-    font-size: 120px;
-    line-height: 140px;
-    color: #fff;
+    font-size: 70px;
+    line-height: 80px;
+    color: var(--secondary-color);
 }
 
 .hero-content {
